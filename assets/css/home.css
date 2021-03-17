@@ -1,0 +1,15 @@
+.jumbotron{
+    margin-top:30px;
+}
+
+.rodape{
+    min-height: 150px;
+    width: 100%;
+    background-color: #FF4E1B;
+    color: white;
+    text-align: center;
+}
+
+.rodape p{
+    line-height: 150px;
+}
